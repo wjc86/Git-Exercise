@@ -16,7 +16,7 @@ import numpy as np
 def skware(x):
     """sometimes I want to get something times itself
     """
-    a= x**x
+    a= x**2
     return a
 
 def kube(x):
