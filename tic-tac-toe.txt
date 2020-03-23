@@ -16,8 +16,8 @@ Welcome to the worst way to play tic-tac-toe
 
 
 
-              |               |               
               |               |
+      x       |               |
               |               |
               |               |
 --------------------------------------------------
