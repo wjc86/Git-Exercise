@@ -19,11 +19,12 @@ def skware(x):
     a= x**2
     return a
 
-def kube(x):
+def cube(x):
     """
     sometimes I want something times itself, times itself
     """
-    return x**x*x
+    return x**3
+    
 
 def quadratic_solver(coefficients):
     """
@@ -54,3 +55,4 @@ def calc_area(r):
     """
     return np.pi*r*2
 #branchcheck
+print(cube(2))
